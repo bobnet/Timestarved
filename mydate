@@ -1,0 +1,9 @@
+#!/bin/sh
+# formatted for me!
+# bob@bobnet.co.uk MCMXCVII
+DATE_T=`date +%T`
+DATE_A=`date +%A`
+DATE_d=`date +%d`
+DATE_B=`date +%B`
+DATE_Y=`date +%Y`
+echo $DATE_T $DATE_A $DATE_d $DATE_B $DATE_Y
