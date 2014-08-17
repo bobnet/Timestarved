@@ -1,0 +1,4 @@
+:
+# bob@bobnet.co.uk MM
+perl -e 'print "Internet Time @",
+int (((time + 3600) % 86400)/86.4), "\n";'
