@@ -1,0 +1,4 @@
+#!/bin/sh
+# bob@bobnet.co.uk MM
+DATE_T=`date +%T`
+echo $DATE_T 
